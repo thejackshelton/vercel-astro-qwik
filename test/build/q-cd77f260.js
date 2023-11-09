@@ -1,1 +1,0 @@
-import{W as r,S as _,a as s,h as a,_ as u}from"./q-94fa2bd0.js";const n=()=>{const t=r(0);return _("button",null,{onClick$:a(()=>u(()=>import("./q-952dfb06.js"),["build/q-952dfb06.js","build/q-94fa2bd0.js"]),"s_JuHzLGU0rfI",[t])},s(o=>o.value,[t]),3,"Yu_0")};export{n as s_1CJRFWMbP6Y};

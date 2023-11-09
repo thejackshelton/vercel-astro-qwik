@@ -1,4 +1,4 @@
-import { defineConfig } from 'astro/config';
+import { defineConfig } from "astro/config";
 import qwikdev from "@qwikdev/astro";
 
 import vercel from "@astrojs/vercel/serverless";
@@ -7,5 +7,5 @@ import vercel from "@astrojs/vercel/serverless";
 export default defineConfig({
   integrations: [qwikdev()],
   output: "server",
-  adapter: vercel()
+  adapter: vercel(),
 });
